@@ -1,0 +1,81 @@
+{
+  "configVersion": 1,
+  "timestamp": 1687479866297,
+  "index": "https://masterd98.github.io/tic-tac-toe/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://masterd98.github.io/tic-tac-toe/favicon.ico",
+        "https://masterd98.github.io/tic-tac-toe/index.html",
+        "https://masterd98.github.io/tic-tac-toe/main.594217eba667fb38.js",
+        "https://masterd98.github.io/tic-tac-toe/manifest.webmanifest",
+        "https://masterd98.github.io/tic-tac-toe/polyfills.3d0dde717a6835bf.js",
+        "https://masterd98.github.io/tic-tac-toe/runtime.0815e640d1d9ac13.js",
+        "https://masterd98.github.io/tic-tac-toe/styles.92358f2e8e5fbd7e.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://masterd98.github.io/tic-tac-toe/assets/icons/icon-128x128.png",
+        "https://masterd98.github.io/tic-tac-toe/assets/icons/icon-144x144.png",
+        "https://masterd98.github.io/tic-tac-toe/assets/icons/icon-152x152.png",
+        "https://masterd98.github.io/tic-tac-toe/assets/icons/icon-192x192.png",
+        "https://masterd98.github.io/tic-tac-toe/assets/icons/icon-384x384.png",
+        "https://masterd98.github.io/tic-tac-toe/assets/icons/icon-512x512.png",
+        "https://masterd98.github.io/tic-tac-toe/assets/icons/icon-72x72.png",
+        "https://masterd98.github.io/tic-tac-toe/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://masterd98.github.io/tic-tac-toe/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://masterd98.github.io/tic-tac-toe/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://masterd98.github.io/tic-tac-toe/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://masterd98.github.io/tic-tac-toe/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://masterd98.github.io/tic-tac-toe/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://masterd98.github.io/tic-tac-toe/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://masterd98.github.io/tic-tac-toe/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://masterd98.github.io/tic-tac-toe/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://masterd98.github.io/tic-tac-toe/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://masterd98.github.io/tic-tac-toe/index.html": "6f77a8e7ab6e0961eea6ad49b2bbe431f9725001",
+    "https://masterd98.github.io/tic-tac-toe/main.594217eba667fb38.js": "709f014bd0ac273f45c51701e0364f8576d7c339",
+    "https://masterd98.github.io/tic-tac-toe/manifest.webmanifest": "31856af0477f86abdb8f64546ae4dcada5eee645",
+    "https://masterd98.github.io/tic-tac-toe/polyfills.3d0dde717a6835bf.js": "b428f8bd36a81b3a8baa333fb453052dfe93407a",
+    "https://masterd98.github.io/tic-tac-toe/runtime.0815e640d1d9ac13.js": "d3ae257cc3db62e2e35851ff8b105039c1db9aae",
+    "https://masterd98.github.io/tic-tac-toe/styles.92358f2e8e5fbd7e.css": "16648c476e71345349ea1e90abf6dd08e8c58156"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
